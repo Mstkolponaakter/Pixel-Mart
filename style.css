@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: "Poppins", serif;
+}
+.logo{
+    /* height: 100px; */
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.container{
+    margin-top: 100px;
+    margin-left: 200px;
+    line-height: 0px;
+}
+.jon{
+    color: #00b4fe;
+    font-size: 25px;
+}
+.cheif{
+    color: #424247;
+    font-size: 16px;
+}
+.card{
+    margin-left: 200px;
+}
+.dhaka{
+    line-height: 80%;
+    margin-top: 40px;
+    color: #424247;
+}
+.number{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 210px;
+    color: #424247;
+    
+
+}
+.container2{
+    margin-left: 200px;
+    margin-right: 210px;
+    color: #424247;
+    margin-top: 80px;
+    line-height: 200%;
+    font-size: 16px;
+    text-align: justify;
+}
+.para{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.image{
+    height: 50px;
+    width: 100px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.name{
+    line-height: 0;
+    margin-left: 200px;
+}
+.ceo{
+    color: #424247;
+    margin-left: 230px;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.container3{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 210px;
+    line-height: 5%;
+    color: #424247;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+}
+.icon2{
+    height: 30px;
+}
+.icon3{
+    background-color: black;
+    height: 30px;
+}
+.end{
+    margin-bottom: 150px;
+}
+
+
