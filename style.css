@@ -82,13 +82,16 @@
 .icon{
     height: 40px;
     width: 40px;
+    margin-right: 5px;
 }
 .icon2{
     height: 30px;
+    margin-right: 5px;
 }
 .icon3{
     background-color: black;
     height: 30px;
+    margin-right: 5px;
 }
 .end{
     margin-bottom: 150px;
